@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Nadzmi, a recent Mechatronics Engineering Graduate
+
+🔭 Currently learning:
+- Data Engineering ()
+- Python for data processing
+- Machine Learning fundamentals
+
+🌱 Exploring:
+- 
 <!--
 **NadzmiR00/NadzmiR00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
