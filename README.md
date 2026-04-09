@@ -3,9 +3,8 @@
 I'm Nadzmi, a recent Mechatronics Engineering Graduate
 
 🔭 Currently learning:
-- Data Engineering ()
-- Python for data processing
-- Machine Learning fundamentals
+- SIEMENS TIA Portal V20
+
 
 🌱 Exploring:
 - 
